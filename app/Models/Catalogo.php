@@ -84,4 +84,6 @@ class Catalogo extends Model
     {
         return $query->where('activo', true);
     }
+
+    
 }
